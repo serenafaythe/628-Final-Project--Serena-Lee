@@ -1,5 +1,8 @@
 # NCVS Code
 
+# To check source availibility, run:
+# source("./code/NCVS code.R")
+
 # Required packages:
 #install.packages("tidyverse","haven","gt","gtExtras","forcats", "wbstats","caret")
 #remotes::install_github('lukaswallrich/timesaveR')
