@@ -33,7 +33,7 @@ library(forcats)
 # fwrite(ncvs, "Data\\ncvs\\ncvs.csv") #saving trimmed data
 
 # trimmed data
-ncvs <- read.csv("./Data/ncvs/ncvs.csv")
+ncvs <- read.csv("../data/ncvs/ncvs.csv")
 
 ## Cleaning----
 
